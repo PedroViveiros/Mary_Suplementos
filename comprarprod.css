@@ -17,6 +17,9 @@ border: 1px solid grey;
     text-align: center;
     margin: 1%;
     font-size: 150%;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+    padding-bottom: 0.5%;
 }
 .voltar{
     font-size: 40px;

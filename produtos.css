@@ -21,4 +21,6 @@ img{
 }
 .item{
     border-radius: 25px;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
 }
