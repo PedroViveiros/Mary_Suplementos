@@ -1,0 +1,55 @@
+.inicio{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(128, 223, 141);
+    border-radius: 17px;
+    font-size: 100%;
+}
+.h2{
+    font-size: 99%;
+}
+.continuação{
+    text-align: center;
+    border-radius: 12px;
+    font-size: 30px;
+}
+a{
+    color: black;
+    text-decoration: none;
+    border-radius: 25px;
+}
+.Produtos{
+    background-color: rgb(139, 228, 151);
+    color: black;
+    font-size: 120%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 25px;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+body{
+    background-color: rgb(190, 238, 194);
+    border-radius: 25px;
+}
+p{
+    font-size: 25px;
+}
+.quem{
+    border: 2px solid grey;
+    border-radius: 20px;
+    background-color: rgb(218, 240, 219);
+    font-size: 75%;
+}
+.imagens{
+    height: 450px;
+    border-radius: 50px;
+}
+.separado{
+    background-color: rgb(200, 238, 200);
+    border-radius: 25px;
+    border: 2px solid rgb(110, 110, 110);
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 75%;
+}
+

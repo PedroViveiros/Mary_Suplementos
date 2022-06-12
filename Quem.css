@@ -1,0 +1,33 @@
+.divisão{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    border-radius: 5px;
+    background-color: rgb(209, 235, 170);
+    border: 3px solid grey;
+    text-align: center;
+    font-size: 25px;
+}
+.voltar{
+    margin-left: 31%;
+    margin-right: 31%;
+    margin-top: 5%;
+    border-radius: 5px;
+    background-color: rgb(209, 235, 170);
+    border: 3px solid grey;
+    text-align: center;
+    font-size: 25px;
+    text-decoration: none;
+    text-decoration: black;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+body{ 
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(212, 245, 219), rgb(177, 211, 188));   
+}
+img{
+    border-radius: 15%;    
+}

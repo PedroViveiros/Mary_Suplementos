@@ -1,0 +1,38 @@
+img{
+text-align: center;
+border-radius: 12px;
+border: 1px solid grey;
+}
+#meio{
+    text-align: center;
+    background-color: aquamarine;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin-bottom: 2%;
+
+}
+.meio{
+    text-align: center;
+    margin: 1%;
+    font-size: 150%;
+}
+.voltar{
+    font-size: 40px;
+    margin-top: 10%;
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: rgb(204, 204, 204);
+    color: black;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.comprar{
+    background-image: linear-gradient(to right, rgb(211, 210, 210), rgb(168, 166, 166));
+    padding: 0.7%;
+    border: 1px solid black;
+    text-decoration: none;
+    border-radius: 7px;
+    color: black;
+}
